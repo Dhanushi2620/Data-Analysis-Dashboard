@@ -32,15 +32,15 @@ The E-Commerce Sales Dashboard is a Power BI-based interactive data visualizatio
 # Project Process
 1. Data Collection & Preprocessing 📂
 
-  - Data extracted from Orders.csv and Details.csv.
-  - Cleaned and formatted in Power BI for efficient analysis.
-  - Data Modeling & Transformation 🔄
+   - Data extracted from Orders.csv and Details.csv.
+   - Cleaned and formatted in Power BI for efficient analysis.
+   - Data Modeling & Transformation 🔄
 
 2. Aggregated sales, profit, and customer metrics.
 
-  - Created calculated columns and measures using DAX.
-  - Dashboard Development in Power BI 📊
-  - Implemented bar charts, pie charts, line graphs, and KPI cards.
+   - Created calculated columns and measures using DAX.
+   - Dashboard Development in Power BI 📊
+   - Implemented bar charts, pie charts, line graphs, and KPI cards.
 
 3. Added slicers for filtering by quarter, product category, and payment method.
 
