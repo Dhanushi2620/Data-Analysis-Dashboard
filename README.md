@@ -54,7 +54,9 @@ The E-Commerce Sales Dashboard is a Power BI-based interactive data visualizatio
 
 # Dashboard
 ![demo img](https://github.com/user-attachments/assets/a156cfbf-ccf3-4178-87c6-54d9f1e34d46)
+
 ![demo img 2](https://github.com/user-attachments/assets/41ba76e1-ca96-46af-b2cb-9e6ce0344f81)
+
 ![demo img 3](https://github.com/user-attachments/assets/c5289837-fe75-4ba0-b6bb-c7fdfe32df06)
 
 # Project Insights
