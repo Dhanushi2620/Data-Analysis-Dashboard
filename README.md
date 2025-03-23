@@ -55,9 +55,11 @@ The E-Commerce Sales Dashboard is a Power BI-based interactive data visualizatio
 # Dashboard
 ![demo img](https://github.com/user-attachments/assets/a156cfbf-ccf3-4178-87c6-54d9f1e34d46)
 ![demo img 2](https://github.com/user-attachments/assets/41ba76e1-ca96-46af-b2cb-9e6ce0344f81)
+![demo img 3](https://github.com/user-attachments/assets/c5289837-fe75-4ba0-b6bb-c7fdfe32df06)
 
 # Project Insights
-  - Maharashtra leads in total sales revenue, followed by Madhya Pradesh and Uttar Pradesh.
+  - Maharashtra leads in total sales revenue, followed b![Uploading demo img 3.png…]()
+y Madhya Pradesh and Uttar Pradesh.
   - Clothing is the highest-selling category (62.62%), followed by Electronics (20.55%).
   - Cash on Delivery (COD) is the most used payment method (43.74%), followed by UPI (20.61%).
   - Printers and Bookcases generate the most profit, while Sarees and Accessories have moderate profitability.
