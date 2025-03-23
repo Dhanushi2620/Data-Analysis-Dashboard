@@ -44,13 +44,13 @@ The E-Commerce Sales Dashboard is a Power BI-based interactive data visualizatio
 
 3. Added slicers for filtering by quarter, product category, and payment method.
 
-  - Built interactive reports with drill-through capabilities.
-  - Analysis & Insights Generation 📈
-  - Derived key insights on state-wise sales, category performance, and customer spending patterns.
+   - Built interactive reports with drill-through capabilities.
+   - Analysis & Insights Generation 📈
+   - Derived key insights on state-wise sales, category performance, and customer spending patterns.
 
 4. Publishing & Deployment 🚀
 
-  - Published the dashboard for real-time access and business decision-making.
+   - Published the dashboard for real-time access and business decision-making.
 
 # Dashboard
 ![demo img](https://github.com/user-attachments/assets/a156cfbf-ccf3-4178-87c6-54d9f1e34d46)
